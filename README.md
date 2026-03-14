@@ -148,7 +148,7 @@ My goal is to become a **Machine Learning Engineer / AI Software Engineer**, bui
 [https://github.com/Moazzam9](https://github.com/Moazzam9)
 
 📧 Email  
-moazzamkk13@gmail.com
+[moazzamkk13@gmail.com]
 
 ---
 
