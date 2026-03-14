@@ -1,13 +1,19 @@
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Moazzam;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Intelligent+Web+Applications" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Moazzam;Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Scalable+Web+%26+Mobile+Applications" />
 
-## 🚀 About Me
+<p align="center">
+Full-Stack Developer passionate about building <b>intelligent web and mobile applications</b> powered by modern technologies and machine learning.
+</p>
 
-💻 Full-Stack Developer passionate about building **scalable web applications and AI-driven systems**.
+---
 
-I specialize in **modern web technologies, machine learning, and intelligent automation**, combining software engineering with AI to create impactful digital products.
+# 🚀 About Me
 
-I enjoy solving real-world problems through **clean architecture, high-performance systems, and data-driven solutions**.
+I am a **Full-Stack Developer and AI enthusiast** focused on building scalable digital products that combine **modern web technologies, mobile development, and machine learning**.
+
+My work involves designing **high-performance applications, intelligent systems, and data-driven platforms** that solve real-world problems.
+
+I enjoy experimenting with **AI integration, machine learning models, and modern full-stack architectures** to create impactful solutions.
 
 ---
 
@@ -30,6 +36,12 @@ I enjoy solving real-world problems through **clean architecture, high-performan
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=next.js)
 ![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge\&logo=vite)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge\&logo=tailwindcss)
+
+---
+
+### 📱 Mobile Development
+
+![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge\&logo=react)
 
 ---
 
@@ -63,8 +75,7 @@ I enjoy solving real-world problems through **clean architecture, high-performan
 
 Machine learning system that classifies breast cancer tumors as **malignant or benign** using a neural network.
 
-**Tech Stack**
-
+**Tech**
 Python • PyTorch • Scikit-learn
 
 🔗 Repository
@@ -74,7 +85,7 @@ Python • PyTorch • Scikit-learn
 
 ## 📊 Student Performance Predictor
 
-Interactive ML app that predicts **student exam performance** using academic and lifestyle features.
+Machine learning application that predicts **student exam performance** based on academic and lifestyle features.
 
 🔗 Live App
 [https://student-performance-predictor-moazzam.streamlit.app/](https://student-performance-predictor-moazzam.streamlit.app/)
@@ -83,33 +94,33 @@ Interactive ML app that predicts **student exam performance** using academic and
 
 ## 🛠 Servify Platform
 
-Service marketplace platform connecting users with professionals such as **electricians, plumbers, decorators, and healthcare providers**.
+A service marketplace platform connecting users with professionals such as **electricians, plumbers, decorators, and healthcare providers**.
 
 🔗 Repository
-[https://github.com/Moazzam9/Servify/](https://github.com/Moazzam9/Servify/)
+[https://github.com/Moazzam9/Servify](https://github.com/Moazzam9/Servify)
 
 ---
 
 ## 🚀 Launch Kits
 
-A platform providing **ready-to-launch startup kits and developer templates**.
+Platform providing **ready-to-launch startup kits and developer templates**.
 
 🔗 Live Project
 [https://launch-kits.vercel.app/](https://launch-kits.vercel.app/)
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moazzam9\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moazzam9\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzam9\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzam9\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
-# 🔥 GitHub Contribution Graph
+# 🔥 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moazzam9\&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moazzam9\&theme=tokyo-night)
 
 ---
 
@@ -119,9 +130,15 @@ A platform providing **ready-to-launch startup kits and developer templates**.
 
 ---
 
-# 🎯 Career Goal
+# 👀 Profile Visitors
 
-My goal is to work as a **Machine Learning Engineer or AI-focused Software Engineer**, building intelligent systems that combine **data science, machine learning, and scalable software architecture**.
+![Visitor Count](https://komarev.com/ghpvc/?username=Moazzam9\&color=blueviolet\&style=for-the-badge)
+
+---
+
+# 🎯 Career Vision
+
+My goal is to become a **Machine Learning Engineer / AI Software Engineer**, building intelligent systems that combine **data science, machine learning, and scalable full-stack architecture**.
 
 ---
 
@@ -129,5 +146,7 @@ My goal is to work as a **Machine Learning Engineer or AI-focused Software Engin
 
 💻 GitHub
 [https://github.com/Moazzam9](https://github.com/Moazzam9)
+.
+
 
 
