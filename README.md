@@ -1,11 +1,7 @@
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Moazzam;Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Scalable+Web+%26+Mobile+Applications" />
 
-<p align="center">
-Full-Stack Developer passionate about building <b>intelligent web and mobile applications</b> powered by modern technologies and machine learning.
-</p>
 
----
 
 # 🚀 About Me
 
