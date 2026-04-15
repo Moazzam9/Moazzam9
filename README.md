@@ -101,8 +101,11 @@ A service marketplace platform connecting users with professionals such as **ele
 
 Platform providing **ready-to-launch startup kits and developer templates**.
 
-🔗 Live Project
-[https://launch-kits.vercel.app/](https://launch-kits.vercel.app/)
+🔗 Live Projects
+[https://launch-kits.vercel.app/]
+https://monster-energy-omega.vercel.app/
+https://moazzam-beverages.vercel.app/
+https://mprods.vercel.app/
 
 ---
 
