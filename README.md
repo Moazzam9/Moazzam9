@@ -1,190 +1,170 @@
-<!-- HERO -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Moazzam;Full+Stack+Engineer;AI+%26+Machine+Learning+Builder;Scalable+Web+%26+AI+Systems" />
-</h1>
+<!-- ========== PREMIUM ANIMATED HEADER ========== -->
 
 <p align="center">
-  Building intelligent, scalable, and production-ready web & AI systems.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:7C4DFF,100:FF00D4&height=220&section=header&text=MOAZZAM&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=600&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI+%26+ML+Architect;Next.js+%7C+Firebase+%7C+Node.js+%7C+Python;Building+Scalable+Intelligent+Systems" />
 </p>
 
 ---
 
-## ⚡ About Me
+<!-- ========== GLASS BADGES ========== -->
 
-Full-Stack Engineer focused on building **high-performance applications**, **AI-driven systems**, and **scalable digital products**.
-
-I specialize in:
-- Clean system architecture  
-- Scalable frontend & backend systems  
-- AI/ML-powered applications  
-- Real-world production deployment  
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-00F7FF?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20FULLSTACK-7C4DFF?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/LEVEL-ENGINEER-FF00D4?style=for-the-badge&labelColor=000000">
+</p>
 
 ---
 
-## 🧠 Core Stack
+## ⚡ ABOUT
 
-### 💻 Programming Languages
+> Building **high-performance systems** that merge **AI intelligence + scalable architecture + real-world impact**.
+
+---
+
+## 🧠 CORE STACK (NEON EDITION)
+
+### 💻 Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js,python" />
 </p>
 
 ---
 
-### 🎨 Frontend Development
+### 🎨 Frontend Multiverse
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" />
 </p>
 
 ---
 
-### 📱 Mobile Development
+### ⚙️ Backend Power Core
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ---
 
-### 🔄 State Management & Data Handling
+### 🗄 Data Dimension
 <p>
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="45"/>
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
 
 ---
 
-### ⚙️ Backend Development
+### 🤖 AI ENGINE ZONE
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 ---
 
-### 🗄 Database Management
+### ☁️ DEPLOYMENT & CLOUD MATRIX
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify" />
 </p>
 
 ---
 
-### 🤖 AI / Machine Learning
+## 🚀 FEATURED PROJECTS (SHOWCASE MODE)
+
+---
+
+### 🌌 🧠 Acadify — AI Education Universe (FLAGSHIP)
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+  <img src="https://img.shields.io/badge/AI-Quiz%20Lab-00F7FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Next.js-Firebase-7C4DFF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-FF00D4?style=for-the-badge">
 </p>
 
----
+🚀 AI-powered education platform built with **Next.js + Firebase**
 
-### 🧩 Tools & Frameworks
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-</p>
-
----
-
-### ☁️ DevOps & Deployment
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 Acadify — AI Education Platform (FLAGSHIP PROJECT)
-AI-assisted education platform built with **Next.js + Firebase**.
-
-Key capabilities:
-- AI Quiz Lab that generates MCQs from PDF content
-- Powered by local **Ollama LLM instance**
-- Real-time streaming quiz generation progress
-- Timed quiz system with evaluation logic
-- PDF export for generated quizzes
-- Designed as a **single source of truth for future documentation and scaling**
-
-Tech Stack:
-Next.js • Firebase • Ollama • AI Pipelines • Streaming UI
+✨ Features:
+- 🧠 AI Quiz Lab (PDF → MCQ Generator)
+- ⚡ Local Ollama LLM integration
+- 📡 Real-time streaming quiz generation
+- ⏱ Timed exam simulation system
+- 📄 PDF export engine
+- 🧩 Designed as a **scalable documentation-first architecture**
 
 ---
 
 ### 🧠 Cancer Classification System
-ML model for predicting tumor malignancy.
+AI model predicting tumor malignancy using deep learning.
 
-- Python • PyTorch • Scikit-learn  
-- https://github.com/Moazzam9/cancer-classifier  
+`Python • PyTorch • Scikit-learn`  
+🔗 https://github.com/Moazzam9/cancer-classifier
 
 ---
 
 ### 📊 Student Performance Predictor
-AI-based academic performance prediction app.
+AI system that predicts academic outcomes based on behavioral data.
 
-- Streamlit deployment  
-- https://student-performance-predictor-moazzam.streamlit.app/
+🔗 https://student-performance-predictor-moazzam.streamlit.app/
 
 ---
 
 ### 🛠 Servify Platform
-Service marketplace connecting professionals and users.
+Marketplace connecting users with verified professionals.
 
-- Full-stack system  
-- https://github.com/Moazzam9/Servify  
+🔗 https://github.com/Moazzam9/Servify
 
 ---
 
 ### 🚀 Launch Kits Ecosystem
-Startup-ready production templates.
+Startup-ready AI + frontend templates.
 
-- https://launch-kits.vercel.app/
-- https://monster-energy-omega.vercel.app/
-- https://moazzam-beverages.vercel.app/
-- https://mprods.vercel.app/
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moazzam9&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzam9&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moazzam9&theme=tokyo-night" />
-</p>
+🌐 https://launch-kits.vercel.app/  
+🌐 https://monster-energy-omega.vercel.app/  
+🌐 https://moazzam-beverages.vercel.app/  
+🌐 https://mprods.vercel.app/
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 LIVE GITHUB MATRIX
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moazzam9&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzam9&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moazzam9&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 SNAKE ANIMATION
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📫 Contact
-- Email: moazzamkk13@gmail.com  
+## 🌐 CONTACT PORTAL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-Moazzam9-00F7FF?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Email-moazzamkk13%40gmail.com-FF00D4?style=for-the-badge">
+</p>
 
 ---
 
-## 🎯 Career Vision
+## 🎯 FINAL FORM
 
-Focused on becoming a **Machine Learning Engineer / AI Systems Engineer**, building scalable, intelligent, production-grade systems.
+> Building toward **AI Systems Engineering + Scalable Full-Stack Architecture + Intelligent Automation**
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00D4,50:7C4DFF,100:00F5FF&height=160&section=footer"/>
+</p>
