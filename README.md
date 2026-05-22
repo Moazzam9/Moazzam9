@@ -128,16 +128,24 @@ Startup-ready AI + frontend templates.
 
 ## 📊 LIVE GITHUB MATRIX
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moazzam9&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moazzam9&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzam9&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzam9&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<!-- Contribution Activity Graph (FIXED + STABLE) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moazzam9&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moazzam9&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+<!-- GitHub Streak (VERY IMPORTANT STABILITY ADDITION) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Moazzam9&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -153,7 +161,6 @@ Startup-ready AI + frontend templates.
 ## 🌐 CONTACT PORTAL
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Moazzam9-00F7FF?style=for-the-badge">
   <img src="https://img.shields.io/badge/Email-moazzamkk13%40gmail.com-FF00D4?style=for-the-badge">
 </p>
 
