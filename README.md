@@ -105,6 +105,22 @@ I specialize in:
 
 ## 🚀 Featured Projects
 
+### 🧠 Acadify — AI Education Platform (FLAGSHIP PROJECT)
+AI-assisted education platform built with **Next.js + Firebase**.
+
+Key capabilities:
+- AI Quiz Lab that generates MCQs from PDF content
+- Powered by local **Ollama LLM instance**
+- Real-time streaming quiz generation progress
+- Timed quiz system with evaluation logic
+- PDF export for generated quizzes
+- Designed as a **single source of truth for future documentation and scaling**
+
+Tech Stack:
+Next.js • Firebase • Ollama • AI Pipelines • Streaming UI
+
+---
+
 ### 🧠 Cancer Classification System
 ML model for predicting tumor malignancy.
 
@@ -163,14 +179,12 @@ Startup-ready production templates.
 ---
 
 ## 📫 Contact
-
-- GitHub: https://github.com/Moazzam9  
 - Email: moazzamkk13@gmail.com  
 
 ---
 
 ## 🎯 Career Vision
 
-Focused on becoming a **Machine Learning Engineer / AI Systems Engineer**, building scalable and intelligent real-world systems.
+Focused on becoming a **Machine Learning Engineer / AI Systems Engineer**, building scalable, intelligent, production-grade systems.
 
 ---
