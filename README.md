@@ -11,68 +11,102 @@
 
 ## ⚡ About Me
 
-Full-Stack Engineer focused on building **high-performance applications**, **AI-powered systems**, and **scalable digital products**.
+Full-Stack Engineer focused on building **high-performance applications**, **AI-driven systems**, and **scalable digital products**.
 
-I specialize in turning ideas into production-ready systems using modern web technologies, AI models, and cloud architecture.
-
-I care about:
-- Clean system design
-- Scalable frontend & backend architecture
-- Real-world impact over hype
+I specialize in:
+- Clean system architecture  
+- Scalable frontend & backend systems  
+- AI/ML-powered applications  
+- Real-world production deployment  
 
 ---
 
 ## 🧠 Core Stack
 
 ### 💻 Programming Languages
-JavaScript • Python
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+</p>
 
 ---
 
 ### 🎨 Frontend Development
-React • Next.js • React Native • HTML • CSS • JavaScript • Streamlit
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+</p>
+
+---
+
+### 📱 Mobile Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+</p>
 
 ---
 
 ### 🔄 State Management & Data Handling
-Redux • Context API • Recoil • Zustand • React Query • TanStack Query
+<p>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" height="45"/>
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/bear.jpg" height="45"/>
+</p>
 
 ---
 
 ### ⚙️ Backend Development
-Node.js • Express.js • REST APIs
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+</p>
 
 ---
 
 ### 🗄 Database Management
-MySQL • MongoDB • Firebase Realtime Database • Supabase
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45"/>
+</p>
 
 ---
 
-### 🧩 Frameworks & Tools
-Electron • API Integration • Postman
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45"/>
+</p>
 
 ---
 
-### 🏗 Architecture & Concepts
-Component-Based Architecture • RESTful Design • Scalable Frontend Architecture
+### 🧩 Tools & Frameworks
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
+</p>
 
 ---
 
-### 🎯 UI/UX & Performance
-Responsive Design • Performance Optimization • Cross-Browser Compatibility
-
----
-
-### ☁️ Cloud & DevOps
-Docker • CI/CD • Git • GitHub • Vercel • Netlify • Cloud Deployment
+### ☁️ DevOps & Deployment
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="45"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧠 Cancer Classification System
-ML model for predicting tumor malignancy using neural networks.
+ML model for predicting tumor malignancy.
 
 - Python • PyTorch • Scikit-learn  
 - https://github.com/Moazzam9/cancer-classifier  
@@ -80,7 +114,7 @@ ML model for predicting tumor malignancy using neural networks.
 ---
 
 ### 📊 Student Performance Predictor
-Machine learning web app that predicts student exam performance.
+AI-based academic performance prediction app.
 
 - Streamlit deployment  
 - https://student-performance-predictor-moazzam.streamlit.app/
@@ -88,15 +122,15 @@ Machine learning web app that predicts student exam performance.
 ---
 
 ### 🛠 Servify Platform
-Service marketplace connecting users with professionals.
+Service marketplace connecting professionals and users.
 
-- Full-stack marketplace system  
+- Full-stack system  
 - https://github.com/Moazzam9/Servify  
 
 ---
 
 ### 🚀 Launch Kits Ecosystem
-Startup-ready templates and production micro-apps.
+Startup-ready production templates.
 
 - https://launch-kits.vercel.app/
 - https://monster-energy-omega.vercel.app/
@@ -122,14 +156,13 @@ Startup-ready templates and production micro-apps.
 ---
 
 ## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact
 
 - GitHub: https://github.com/Moazzam9  
 - Email: moazzamkk13@gmail.com  
@@ -138,9 +171,6 @@ Startup-ready templates and production micro-apps.
 
 ## 🎯 Career Vision
 
-Aspiring **AI / Machine Learning Engineer** focused on building intelligent, scalable systems combining:
-- Machine Learning
-- Full-stack engineering
-- Cloud-native architecture
+Focused on becoming a **Machine Learning Engineer / AI Systems Engineer**, building scalable and intelligent real-world systems.
 
 ---
