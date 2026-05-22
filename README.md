@@ -1,153 +1,128 @@
+<!-- HERO -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Moazzam;Full+Stack+Engineer;AI+%26+Machine+Learning+Builder;Systems+That+Scale" />
+</h1>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Moazzam;Full+Stack+Developer;AI+%26+Machine+Learning+Engineer;Building+Scalable+Web+%26+Mobile+Applications" />
-
-
-
-# 🚀 About Me
-
-I am a **Full-Stack Developer and AI enthusiast** focused on building scalable digital products that combine **modern web technologies, mobile development, and machine learning**.
-
-My work involves designing **high-performance applications, intelligent systems, and data-driven platforms** that solve real-world problems.
-
-I enjoy experimenting with **AI integration, machine learning models, and modern full-stack architectures** to create impactful solutions.
+<p align="center">
+  Building intelligent, scalable, and production-ready web & AI systems.
+</p>
 
 ---
 
-# 🧠 Tech Stack
+## ⚡ About
 
-### 💻 Languages
+Full-Stack Engineer focused on designing **high-performance applications**, **AI-powered systems**, and **scalable digital platforms**.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge\&logo=mysql)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
+I work across:
+- Modern web & mobile architecture
+- Machine learning systems & data pipelines
+- End-to-end product development (idea → deployment)
 
----
-
-### ⚡ Frontend
-
-![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=next.js)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge\&logo=vite)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge\&logo=tailwindcss)
+I prefer **clean architecture, measurable performance, and real-world impact over hype**.
 
 ---
 
-### 📱 Mobile Development
+## 🧠 Core Stack
 
-![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge\&logo=react)
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
 
----
+### Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 
-### ⚙️ Backend
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge\&logo=express)
+### Mobile
+![React Native](https://img.shields.io/badge/React%20Native-000?style=for-the-badge&logo=react)
 
----
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
 
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge\&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge\&logo=firebase)
-
----
-
-### 🤖 AI / Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge\&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge\&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-000?style=for-the-badge\&logo=scikitlearn)
-
----
-
-# 🔬 Featured Projects
-
-## 🧠 Cancer Classification Model
-
-Machine learning system that classifies breast cancer tumors as **malignant or benign** using a neural network.
-
-**Tech**
-Python • PyTorch • Scikit-learn
-
-🔗 Repository
-[https://github.com/Moazzam9/cancer-classifier](https://github.com/Moazzam9/cancer-classifier)
+### AI / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-000?style=for-the-badge&logo=scikitlearn)
 
 ---
 
-## 📊 Student Performance Predictor
+## 🚀 Featured Work
 
-Machine learning application that predicts **student exam performance** based on academic and lifestyle features.
+### 🧠 Cancer Classification System
+Neural network-based classification system for predicting tumor malignancy.
 
-🔗 Live App
-[https://student-performance-predictor-moazzam.streamlit.app/](https://student-performance-predictor-moazzam.streamlit.app/)
-
----
-
-## 🛠 Servify Platform
-
-A service marketplace platform connecting users with professionals such as **electricians, plumbers, decorators, and healthcare providers**.
-
-🔗 Repository
-[https://github.com/Moazzam9/Servify](https://github.com/Moazzam9/Servify)
+- Python • PyTorch • Scikit-learn  
+- GitHub: https://github.com/Moazzam9/cancer-classifier  
 
 ---
 
-## 🚀 Launch Kits
+### 📊 Student Performance Predictor
+ML model that predicts academic performance based on behavioral & academic features.
 
-Platform providing **ready-to-launch startup kits and developer templates**.
-
-🔗 Live Projects
-[https://launch-kits.vercel.app/]
-https://monster-energy-omega.vercel.app/
-https://moazzam-beverages.vercel.app/
-https://mprods.vercel.app/
+- Streamlit-based deployment  
+- Live: https://student-performance-predictor-moazzam.streamlit.app/
 
 ---
 
-# 📊 GitHub Stats
+### 🛠 Servify Platform
+Service marketplace connecting users with verified professionals.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moazzam9\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzam9\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-# 🔥 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moazzam9\&theme=tokyo-night)
+- Full-stack marketplace architecture  
+- GitHub: https://github.com/Moazzam9/Servify  
 
 ---
 
-# 🐍 Contribution Snake
+### 🚀 Launch Kits Ecosystem
+Collection of production-ready startup templates and micro-apps.
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-# 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Moazzam9\&color=blueviolet\&style=for-the-badge)
+- https://launch-kits.vercel.app/
+- https://monster-energy-omega.vercel.app/
+- https://moazzam-beverages.vercel.app/
+- https://mprods.vercel.app/
 
 ---
 
-# 🎯 Career Vision
+## 📊 GitHub Analytics
 
-My goal is to become a **Machine Learning Engineer / AI Software Engineer**, building intelligent systems that combine **data science, machine learning, and scalable full-stack architecture**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moazzam9&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzam9&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moazzam9&theme=tokyo-night" />
+</p>
 
 ---
 
-# 📫 Connect With Me
-
-💻 GitHub
-[https://github.com/Moazzam9](https://github.com/Moazzam9)
-
-📧 Email moazzamkk13@gmail.com
+## 🐍 Contribution Graph
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
+## 📫 Contact
 
+- GitHub: https://github.com/Moazzam9  
+- Email: moazzamkk13@gmail.com  
+
+---
+
+## 🎯 Focus
+
+Building toward:
+**AI Engineer / Machine Learning Engineer** roles focused on real-world scalable systems, intelligent automation, and production ML pipelines.
+
+---
