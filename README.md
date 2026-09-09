@@ -1,6 +1,6 @@
-<!-- ========== PREMIUM ANIMATED HEADER ========== -->
+<!-- ========== ANIMATED WAVING HEADER (RED & WHITE) ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=MOAZZAM&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Full‑Stack%20Architect&descSize=18&descAlignY=60&bg=0D0D0D&stroke=FF0000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,FFFFFF&height=240&section=header&text=MOAZZAM&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Full‑Stack%20Architect&descSize=18&descAlignY=60" />
 </p>
 
 <!-- ========== TYPING ANIMATION (RED) ========== -->
@@ -169,19 +169,18 @@
 <!-- ========== 3D GITHUB MATRIX ========== -->
 <h2 align="center" style="color:#FF0000;">📊 3D GITHUB MATRIX</h2>
 
-<!-- 3D contribution graph (requires setup) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Moazzam9/Moazzam9/main/github-contribution-3d.svg" alt="3D Contribution Graph" width="880" />
 </p>
-<p align="center"><i style="color:#AAAAAA;">(This 3D cube rotates – generated automatically via GitHub Action)</i></p>
+<p align="center"><i style="color:#AAAAAA;">(This 3D cube rotates – generated via GitHub Action)</i></p>
 
-<!-- Stats Cards – forced red/white -->
+<!-- Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moazzam9&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moazzam9&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF0000&text_color=FFFFFF" />
 </p>
 
-<!-- Activity Graph – customize colors -->
+<!-- Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moazzam9&bg_color=0D0D0D&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=true" />
 </p>
@@ -193,11 +192,11 @@
 
 ---
 
-<!-- ========== SNAKE ANIMATION (FIXED) ========== -->
+<!-- ========== SNAKE ANIMATION ========== -->
 <h2 align="center" style="color:#FF0000;">🐍 SNAKE EATING CONTRIBUTIONS</h2>
 
 <blockquote align="center" style="background: #000000; border-left: 6px solid #FF0000; border-radius: 8px; padding: 10px 20px; margin: 10px auto 20px auto; max-width: 600px;">
-  <span style="color:#AAAAAA;">Watch the snake gobble up your contributions – updated daily via GitHub Action.</span>
+  <span style="color:#AAAAAA;">⬇️ If the snake is missing, you haven't run the GitHub Action yet. See setup below. ⬇️</span>
 </blockquote>
 
 <p align="center">
@@ -228,7 +227,7 @@
   Building toward <b style="color:#FF0000;">AI Systems Engineering</b> + <b style="color:#FFFFFF;">Scalable Full‑Stack Architecture</b> + <b style="color:#FF0000;">Intelligent Automation</b>
 </blockquote>
 
-<!-- ========== PREMIUM ANIMATED FOOTER ========== -->
+<!-- ========== ANIMATED FOOTER (RED & WHITE) ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=footer&bg=0D0D0D&stroke=FF0000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,FFFFFF&height=160&section=footer" />
 </p>
