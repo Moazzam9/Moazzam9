@@ -17,16 +17,22 @@
 
 ---
 
-<!-- ========== GLASS ABOUT CARD ========== -->
-<h2 align="center">⚡ ABOUT</h2>
+<!-- ========== AMAZING ABOUT SECTION (UPGRADED) ========== -->
+<h2 align="center">⚡ ABOUT ME — THE VISION</h2>
 
-<blockquote align="center" style="font-size:1.2em; background: rgba(0,247,255,0.03); backdrop-filter: blur(4px); padding: 25px; border-radius: 30px; border: 1px solid #00F7FF; box-shadow: 0 0 40px #00F7FF22;">
-  Building <b style="color:#00F7FF;">high‑performance systems</b> that merge <b style="color:#7C4DFF;">AI intelligence</b> + <b style="color:#FF00D4;">scalable architecture</b> + <b style="color:#00F7FF;">real‑world impact</b>.
+<blockquote align="center" style="font-size:1.15em; background: radial-gradient(circle at 30% 20%, rgba(0,247,255,0.06), rgba(124,77,255,0.06)); backdrop-filter: blur(6px); padding: 30px 35px; border-radius: 40px; border: 2px solid #00F7FF; box-shadow: 0 0 60px #00F7FF33; line-height: 1.8;">
+  I <b style="color:#00F7FF;">architect the future</b> at the intersection of <b style="color:#7C4DFF;">Artificial Intelligence</b> and <b style="color:#FF00D4;">Scalable Systems</b>.
+  <br/><br/>
+  As a Full‑Stack Engineer with a relentless drive for <b style="color:#00F7FF;">automation</b>, I transform complex data into intelligent, high‑performance applications that think, adapt, and evolve.
+  <br/><br/>
+  My mission is to build <b style="color:#7C4DFF;">self‑optimizing ecosystems</b> that bridge the gap between cutting‑edge research and real‑world deployment — turning ambitious ideas into <b style="color:#FF00D4;">production‑grade realities</b>.
+  <br/><br/>
+  <span style="color:#AAA;">I don't just write code — I engineer <b style="color:#00F7FF;">digital intelligence</b>.</span>
 </blockquote>
 
 ---
 
-<!-- ========== CORE STACK (NEON EDITION – UPGRADED TO GLOWING BLOCKQUOTES) ========== -->
+<!-- ========== CORE STACK (NEON EDITION – GLOWING BLOCKQUOTES) ========== -->
 <h2 align="center">🧠 CORE STACK (NEON EDITION)</h2>
 
 <!-- 💻 Languages -->
@@ -70,7 +76,7 @@
 <!-- ========== FEATURED PROJECTS ========== -->
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<!-- ========== 🔬 PUBLICATION – NOW TOP OF FEATURED PROJECTS ========== -->
+<!-- ========== 🔬 PUBLICATION – TOP OF FEATURED PROJECTS ========== -->
 <details align="center" open>
   <summary><b style="font-size:1.3em; color:#FF00D4;">📄 fair-hpo-tabular-benchmark — Reproducible HPO Benchmark</b></summary>
   <br/>
@@ -163,7 +169,7 @@
 <!-- ========== 3D GITHUB MATRIX ========== -->
 <h2 align="center">📊 3D GITHUB MATRIX</h2>
 
-<!-- The ONLY true 3D element that works on GitHub – an SVG generated from your contributions -->
+<!-- 3D contribution graph (requires setup) -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Moazzam9/Moazzam9/main/github-contribution-3d.svg" alt="3D Contribution Graph" width="880" />
 </p>
@@ -187,7 +193,7 @@
 
 ---
 
-<!-- ========== SNAKE ANIMATION (UPGRADED) ========== -->
+<!-- ========== SNAKE ANIMATION ========== -->
 <h2 align="center" style="color:#7C4DFF;">🐍 SNAKE EATING CONTRIBUTIONS</h2>
 
 <blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #7C4DFF; border-radius: 12px; padding: 10px 20px; margin: 10px auto 20px auto; max-width: 600px;">
@@ -200,7 +206,7 @@
 
 ---
 
-<!-- ========== CONTACT PORTAL (UPGRADED) ========== -->
+<!-- ========== CONTACT PORTAL ========== -->
 <h2 align="center" style="color:#FF00D4;">🌐 CONTACT PORTAL</h2>
 
 <blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #FF00D4; border-radius: 12px; padding: 10px 20px; margin: 10px auto 20px auto; max-width: 500px;">
