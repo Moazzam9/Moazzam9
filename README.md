@@ -17,31 +17,6 @@
 
 ---
 
-<!-- ========== RESEARCH SHOWCASE (PLACED FIRST AS REQUESTED) ========== -->
-<h2 align="center">🧪 LATEST RESEARCH BREAKTHROUGH</h2>
-
-<p align="center">
-  <a href="https://github.com/Moazzam9/fair-hpo-tabular-benchmark">
-    <img src="https://img.shields.io/badge/📄%20fair--hpo--tabular--benchmark-Reproducible%20Benchmark%20of%20HPO%20Methods-FF00D4?style=for-the-badge&labelColor=0D0D0D&logo=github&logoColor=white">
-  </a>
-</p>
-
-<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #7C4DFF; border-radius: 12px; padding: 18px 24px; color: #DDD;">
-  <b style="color:#00F7FF;">fair-hpo-tabular-benchmark</b><br/>
-  Reproducible benchmark of conventional and metaheuristic hyperparameter optimization methods for tabular classification under controlled evaluation budgets.
-  <br/><br/>
-  <span style="color:#FF00D4;">⚡ 3D Performance Matrix • Metaheuristic vs. Grid/Random Search • Fully Reproducible</span>
-</blockquote>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/Optuna-4B0082?style=for-the-badge&logo=optuna&logoColor=white">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  <img src="https://img.shields.io/badge/arXiv-2105.14234-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">
-</p>
-
----
-
 <!-- ========== GLASS ABOUT CARD ========== -->
 <h2 align="center">⚡ ABOUT</h2>
 
@@ -51,33 +26,73 @@
 
 ---
 
-<!-- ========== CORE STACK (NEON EDITION) ========== -->
+<!-- ========== CORE STACK (NEON EDITION – UPGRADED TO GLOWING BLOCKQUOTES) ========== -->
 <h2 align="center">🧠 CORE STACK (NEON EDITION)</h2>
 
-<h3 align="center">💻 Languages</h3>
+<!-- 💻 Languages -->
+<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #00F7FF; border-radius: 12px; padding: 12px 24px; margin: 20px auto;">
+  <b style="color:#00F7FF; font-size: 1.5em;">💻 Languages</b>
+</blockquote>
 <p align="center"><img src="https://skillicons.dev/icons?i=js,python" /></p>
 
-<h3 align="center">🎨 Frontend Multiverse</h3>
+<!-- 🎨 Frontend Multiverse -->
+<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #7C4DFF; border-radius: 12px; padding: 12px 24px; margin: 20px auto;">
+  <b style="color:#7C4DFF; font-size: 1.5em;">🎨 Frontend Multiverse</b>
+</blockquote>
 <p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /></p>
 
-<h3 align="center">⚙️ Backend Power Core</h3>
+<!-- ⚙️ Backend Power Core -->
+<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #FF00D4; border-radius: 12px; padding: 12px 24px; margin: 20px auto;">
+  <b style="color:#FF00D4; font-size: 1.5em;">⚙️ Backend Power Core</b>
+</blockquote>
 <p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express" /></p>
 
-<h3 align="center">🗄 Data Dimension</h3>
+<!-- 🗄 Data Dimension -->
+<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #00F7FF; border-radius: 12px; padding: 12px 24px; margin: 20px auto;">
+  <b style="color:#00F7FF; font-size: 1.5em;">🗄 Data Dimension</b>
+</blockquote>
 <p align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" /></p>
 
-<h3 align="center">🤖 AI ENGINE ZONE</h3>
+<!-- 🤖 AI ENGINE ZONE -->
+<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #7C4DFF; border-radius: 12px; padding: 12px 24px; margin: 20px auto;">
+  <b style="color:#7C4DFF; font-size: 1.5em;">🤖 AI ENGINE ZONE</b>
+</blockquote>
 <p align="center"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow" /></p>
 
-<h3 align="center">☁️ Deployment & Cloud Matrix</h3>
+<!-- ☁️ Deployment & Cloud Matrix -->
+<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #FF00D4; border-radius: 12px; padding: 12px 24px; margin: 20px auto;">
+  <b style="color:#FF00D4; font-size: 1.5em;">☁️ Deployment & Cloud Matrix</b>
+</blockquote>
 <p align="center"><img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify" /></p>
 
 ---
 
-<!-- ========== FEATURED PROJECTS (USING DETAILS FOR "PLAYABLE" EXPAND) ========== -->
+<!-- ========== FEATURED PROJECTS ========== -->
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
-<!-- ACADIFY – FLAGSHIP -->
+<!-- ========== 🔬 PUBLICATION – NOW TOP OF FEATURED PROJECTS ========== -->
+<details align="center" open>
+  <summary><b style="font-size:1.3em; color:#FF00D4;">📄 fair-hpo-tabular-benchmark — Reproducible HPO Benchmark</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/RESEARCH-FLAGSHIP-FF00D4?style=for-the-badge&labelColor=0D0D0D">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/Optuna-4B0082?style=for-the-badge&logo=optuna&logoColor=white">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img src="https://img.shields.io/badge/arXiv-2105.14234-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">
+  </p>
+  <blockquote style="background: radial-gradient(circle at 10% 20%, rgba(255,0,212,0.08), rgba(124,77,255,0.08)); padding: 18px; border-radius: 20px; border: 2px solid #FF00D4; box-shadow: 0 0 30px #FF00D444;">
+    <b style="color:#00F7FF;">fair-hpo-tabular-benchmark</b><br/>
+    Reproducible benchmark of conventional and metaheuristic hyperparameter optimization methods for tabular classification under controlled evaluation budgets.
+    <br/><br/>
+    ⚡ <b style="color:#7C4DFF;">3D Performance Matrix</b> • Metaheuristic vs. Grid/Random Search • Fully Reproducible
+    <br/><br/>
+    🔗 <a href="https://github.com/Moazzam9/fair-hpo-tabular-benchmark" style="color:#00F7FF;">https://github.com/Moazzam9/fair-hpo-tabular-benchmark</a>
+  </blockquote>
+</details>
+<br/>
+
+<!-- ========== ACADIFY (FLAGSHIP APP) ========== -->
 <details align="center">
   <summary><b style="font-size:1.4em; color:#00F7FF;">🌌 Acadify — AI Education Universe</b></summary>
   <br/>
@@ -96,7 +111,7 @@
 </details>
 <br/>
 
-<!-- CANCER CLASSIFIER -->
+<!-- ========== CANCER CLASSIFIER ========== -->
 <details align="center">
   <summary><b style="font-size:1.2em; color:#FF00D4;">🧠 Cancer Classification System</b></summary>
   <br/>
@@ -108,7 +123,7 @@
 </details>
 <br/>
 
-<!-- STUDENT PERFORMANCE -->
+<!-- ========== STUDENT PERFORMANCE ========== -->
 <details align="center">
   <summary><b style="font-size:1.2em; color:#00F7FF;">📊 Student Performance Predictor</b></summary>
   <br/>
@@ -119,7 +134,7 @@
 </details>
 <br/>
 
-<!-- SERVIFY -->
+<!-- ========== SERVIFY ========== -->
 <details align="center">
   <summary><b style="font-size:1.2em; color:#7C4DFF;">🛠 Servify Platform</b></summary>
   <br/>
@@ -130,7 +145,7 @@
 </details>
 <br/>
 
-<!-- LAUNCH KITS -->
+<!-- ========== LAUNCH KITS ========== -->
 <details align="center">
   <summary><b style="font-size:1.2em; color:#FF00D4;">🚀 Launch Kits Ecosystem</b></summary>
   <br/>
@@ -172,16 +187,26 @@
 
 ---
 
-<!-- ========== SNAKE ANIMATION ========== -->
-<h2 align="center">🐍 SNAKE EATING CONTRIBUTIONS</h2>
+<!-- ========== SNAKE ANIMATION (UPGRADED) ========== -->
+<h2 align="center" style="color:#7C4DFF;">🐍 SNAKE EATING CONTRIBUTIONS</h2>
+
+<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #7C4DFF; border-radius: 12px; padding: 10px 20px; margin: 10px auto 20px auto; max-width: 600px;">
+  <span style="color:#AAA;">Watch the snake gobble up your 2026 contributions!</span>
+</blockquote>
+
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- ========== CONTACT PORTAL ========== -->
-<h2 align="center">🌐 CONTACT PORTAL</h2>
+<!-- ========== CONTACT PORTAL (UPGRADED) ========== -->
+<h2 align="center" style="color:#FF00D4;">🌐 CONTACT PORTAL</h2>
+
+<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #FF00D4; border-radius: 12px; padding: 10px 20px; margin: 10px auto 20px auto; max-width: 500px;">
+  <span style="color:#AAA;">Reach out to me across the digital dimension</span>
+</blockquote>
+
 <p align="center">
   <a href="mailto:moazzamkk13@gmail.com"><img src="https://img.shields.io/badge/Email-moazzamkk13%40gmail.com-FF00D4?style=for-the-badge&labelColor=0D0D0D&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/moazzam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D"></a>
@@ -192,6 +217,7 @@
 
 <!-- ========== FINAL FORM ========== -->
 <h2 align="center">🎯 FINAL FORM</h2>
+
 <blockquote align="center" style="font-size:1.3em; background: linear-gradient(135deg, #0D0D0D, #1A1A2E); padding: 22px; border-radius: 40px; border: 2px solid #FF00D4; box-shadow: 0 0 60px #FF00D444;">
   Building toward <b style="color:#00F7FF;">AI Systems Engineering</b> + <b style="color:#7C4DFF;">Scalable Full‑Stack Architecture</b> + <b style="color:#FF00D4;">Intelligent Automation</b>
 </blockquote>
