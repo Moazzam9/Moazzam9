@@ -1,6 +1,6 @@
 <!-- ========== ANIMATED WAVING HEADER (RED & WHITE) ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,FFFFFF&height=240&section=header&text=MOAZZAM&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Full‑Stack%20Architect&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,FFFFFF&height=240&section=header&text=MOAZZAM&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Full%E2%80%91Stack%20Architect&descSize=18&descAlignY=60" />
 </p>
 
 <!-- ========== TYPING ANIMATION (RED) ========== -->
@@ -29,6 +29,70 @@
   <br/><br/>
   <span style="color:#AAAAAA;">I don't just write code — I engineer <b style="color:#FF0000;">digital intelligence</b>.</span>
 </blockquote>
+
+---
+
+<!-- ========== RESEARCH INTERESTS ========== -->
+<h2 align="center" style="color:#FF0000;">🔬 RESEARCH INTERESTS</h2>
+
+<blockquote align="center" style="background: #000000; border-left: 6px solid #FFFFFF; border-radius: 12px; padding: 25px 30px; color: #FFFFFF; line-height: 1.8;">
+  My current research focuses on <b style="color:#FF0000;">Federated Learning</b>, <b style="color:#FF0000;">IoT Security</b>, <b style="color:#FF0000;">AI Fairness</b>, and <b style="color:#FF0000;">Hyperparameter Optimization</b>. I am interested in building reproducible, resource‑aware machine learning systems for distributed environments, with a specific focus on how client data heterogeneity affects federated model performance, fairness, and compute cost.
+  <br/><br/>
+  <b style="color:#FFFFFF;">Active Research Areas:</b>
+  <br/>
+  • Federated Learning and Federated Averaging (FedAvg)
+  <br/>
+  • IoT Intrusion Detection and Botnet Detection (N‑BaIoT)
+  <br/>
+  • Non‑IID Data and Device Heterogeneity in Distributed ML
+  <br/>
+  • Algorithmic Fairness in Tabular Machine Learning
+  <br/>
+  • Hyperparameter Optimization (Bayesian, Random Search)
+  <br/>
+  • Reproducibility and Empirical Evaluation in Machine Learning
+</blockquote>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Federated%20Learning-FF0000?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/IoT%20Security-FFFFFF?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/AI%20Fairness-FF0000?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/Hyperparameter%20Optimization-FFFFFF?style=for-the-badge&labelColor=000000">
+  <img src="https://img.shields.io/badge/Reproducible%20ML-FF0000?style=for-the-badge&labelColor=000000">
+</p>
+
+---
+
+<!-- ========== PUBLICATIONS ========== -->
+<h2 align="center" style="color:#FF0000;">📄 PUBLICATIONS</h2>
+
+<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #FF0000; border-radius: 12px; padding: 20px 25px; color: #FFFFFF;">
+  <b style="color:#FFFFFF;">An Empirical Audit of Performance, Fairness, and Compute Cost in Tabular Hyperparameter Optimization</b>
+  <br/>
+  <i style="color:#AAAAAA;">M. Azam, 2026 — Preprint</i>
+  <br/><br/>
+  <a href="https://doi.org/10.5281/zenodo.22090994" style="color:#FF0000;">DOI: 10.5281/zenodo.22090994</a>
+  <br/>
+  <a href="https://github.com/Moazzam9/fair-hpo-tabular-benchmark" style="color:#FFFFFF;">Repository</a>
+</blockquote>
+
+<br/>
+
+<blockquote align="center" style="background: #0D0D0D; border-left: 6px solid #FFFFFF; border-radius: 12px; padding: 20px 25px; color: #FFFFFF;">
+  <b style="color:#FFFFFF;">Federated Learning for Resource-Aware Intrusion Detection in IoT Networks: An Empirical Study of IID and Device-Level Non-IID Data</b>
+  <br/>
+  <i style="color:#AAAAAA;">M. Azam, 2026 — Software (v1.0.0)</i>
+  <br/><br/>
+  <a href="https://doi.org/10.5281/zenodo.22941258" style="color:#FF0000;">DOI: 10.5281/zenodo.22941258</a>
+  <br/>
+  <a href="https://github.com/Moazzam9/federated-iot-ids" style="color:#FFFFFF;">Repository</a>
+</blockquote>
+
+<p align="center">
+  <a href="https://orcid.org/0009-0001-6145-0473">
+    <img src="https://img.shields.io/badge/ORCID-0009--0001--6145--0473-A6CE39?style=for-the-badge&labelColor=000000&logo=orcid&logoColor=white">
+  </a>
+</p>
 
 ---
 
@@ -85,7 +149,7 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/Optuna-4B0082?style=for-the-badge&logo=optuna&logoColor=white">
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-    <img src="https://img.shields.io/badge/arXiv-2105.14234-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white">
+    <img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22090994-B31B1B?style=for-the-badge&labelColor=000000">
   </p>
   <blockquote style="background: #0D0D0D; padding: 18px; border-radius: 20px; border: 2px solid #FF0000;">
     <b style="color:#FFFFFF;">fair-hpo-tabular-benchmark</b><br/>
@@ -94,6 +158,8 @@
     ⚡ <b style="color:#FF0000;">3D Performance Matrix</b> • Metaheuristic vs. Grid/Random Search • Fully Reproducible
     <br/><br/>
     🔗 <a href="https://github.com/Moazzam9/fair-hpo-tabular-benchmark" style="color:#FF0000;">https://github.com/Moazzam9/fair-hpo-tabular-benchmark</a>
+    <br/>
+    📄 <a href="https://doi.org/10.5281/zenodo.22090994" style="color:#FFFFFF;">DOI: 10.5281/zenodo.22090994</a>
   </blockquote>
 </details>
 <br/>
@@ -205,29 +271,28 @@
 
 ---
 
-<!-- ========== CONTACT PORTAL ========== -->
-<h2 align="center" style="color:#FF0000;">🌐 CONTACT PORTAL</h2>
-
-<blockquote align="center" style="background: #000000; border-left: 6px solid #FFFFFF; border-radius: 8px; padding: 10px 20px; margin: 10px auto 20px auto; max-width: 500px;">
-  <span style="color:#AAAAAA;">Reach out to me across the digital dimension</span>
-</blockquote>
+<!-- ========== CITATION ========== -->
+<h2 align="center" style="color:#FF0000;">📖 CITATION</h2>
 
 <p align="center">
-  <a href="mailto:moazzamkk13@gmail.com"><img src="https://img.shields.io/badge/Email-moazzamkk13%40gmail.com-FF0000?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=FF0000"></a>
-  <a href="https://linkedin.com/in/moazzam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"></a>
-  <a href="https://twitter.com/moazzam"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000"></a>
+  <span style="color:#AAAAAA;">If you use any of my work, please cite:</span>
 </p>
 
----
+```bibtex
+@software{azam_federated_learning_iot_ids_2026,
+  author    = {Azam, Moazzam},
+  title     = {Federated Learning for Resource-Aware Intrusion Detection in IoT Networks},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.22941258},
+  url       = {https://doi.org/10.5281/zenodo.22941258}
+}
 
-<!-- ========== FINAL FORM ========== -->
-<h2 align="center" style="color:#FF0000;">🎯 FINAL FORM</h2>
-
-<blockquote align="center" style="background: #000000; padding: 22px; border-radius: 40px; border: 2px solid #FF0000; color: #FFFFFF; font-size: 1.3em;">
-  Building toward <b style="color:#FF0000;">AI Systems Engineering</b> + <b style="color:#FFFFFF;">Scalable Full‑Stack Architecture</b> + <b style="color:#FF0000;">Intelligent Automation</b>
-</blockquote>
-
-<!-- ========== ANIMATED FOOTER (RED & WHITE) ========== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,FFFFFF&height=160&section=footer" />
-</p>
+@misc{azam_fair_hpo_tabular_2026,
+  author    = {Azam, Moazzam},
+  title     = {An Empirical Audit of Performance, Fairness, and Compute Cost in Tabular Hyperparameter Optimization},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.22090994},
+  url       = {https://doi.org/10.5281/zenodo.22090994}
+}
