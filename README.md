@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,FFFFFF&height=240&section=header&text=MOAZZAM&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Full%E2%80%91Stack%20Architect&descSize=18&descAlignY=60" />
 </p>
 
-<!-- ========== TYPING ANIMATION (RED) ========== -->
+<!-- ========== TYPING ANIMATION (RED) - FIXED ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=600&color=FF0000&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI+%26+ML+Architect;Next.js+%7C+Firebase+%7C+Node.js+%7C+Python;Building+Scalable+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=600&color=FF0000&center=true&vCenter=true&width=1000&lines=Full+Stack+Engineer;AI+%26+ML+Architect;Next.js+%7C+Firebase+%7C+Node.js+%7C+Python;Building+Scalable+Intelligent+Systems" />
 </p>
 
 <!-- ========== STATUS BADGES (RED & WHITE) ========== -->
@@ -236,7 +236,7 @@
 <h2 align="center" style="color:#FF0000;">📊 3D GITHUB MATRIX</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Moazzam9/Moazzam9/main/github-contribution-3d.svg" alt="3D Contribution Graph" width="880" />
+  <img src="https://raw.githubusercontent.com/Moazzam9/Moazzam9/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" width="880" />
 </p>
 <p align="center"><i style="color:#AAAAAA;">(This 3D cube rotates – generated via GitHub Action)</i></p>
 
