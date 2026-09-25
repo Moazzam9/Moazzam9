@@ -1,13 +1,11 @@
-<!-- ========== ANIMATED WAVING HEADER (RED & WHITE) ========== -->
+<!-- ========== ANIMATED WAVING HEADER ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,FFFFFF&height=240&section=header&text=MOAZZAM&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Full%E2%80%91Stack%20Architect&descSize=18&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=MOAZZAM&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=40" />
 </p>
 
+<!-- ========== ANIMATED TYPING TAGLINE ========== -->
 <p align="center">
-  <b style="color:#FF0000; font-size: 1.4em;">Full Stack Engineer · AI & ML Architect · Next.js | Firebase | Node.js | Python</b>
-</p>
-<p align="center">
-  <b style="color:#FFFFFF; font-size: 1.1em;">Building Scalable Intelligent Systems</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=AI+Researcher;Federated+Learning+%7C+IoT+Security;Full-Stack+Engineer+%7C+ML+Architect;Building+Scalable+Intelligent+Systems" />
 </p>
 
 <p align="center">
@@ -18,9 +16,13 @@
 
 ---
 
-<!-- ========== SECTION BANNER: ABOUT ========== -->
+<!-- ========== SECTION: ABOUT ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=ABOUT%20ME&fontSize=38&fontColor=FF0000&animation=fadeIn&fontAlignY=50&stroke=FF0000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
+</p>
+<h2 align="center" style="color:#FF0000;">ABOUT ME</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
 </p>
 
 <table align="center" width="100%">
@@ -73,9 +75,17 @@
 
 ---
 
-<!-- ========== SECTION BANNER: RESEARCH INTERESTS ========== -->
+<!-- ========== SECTION: RESEARCH INTERESTS ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=RESEARCH%20INTERESTS&fontSize=38&fontColor=FF0000&animation=fadeIn&fontAlignY=50&stroke=FF0000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
+</p>
+<h2 align="center" style="color:#FF0000;">RESEARCH INTERESTS</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Federated+Learning+%7C+Non-IID+Data;IoT+Security+%7C+Botnet+Detection;AI+Fairness+%7C+Algorithmic+Audits;Hyperparameter+Optimization+%7C+Reproducibility" />
 </p>
 
 <table align="center" width="100%">
@@ -147,9 +157,13 @@
 
 ---
 
-<!-- ========== SECTION BANNER: PUBLICATIONS ========== -->
+<!-- ========== SECTION: PUBLICATIONS ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=PUBLICATIONS&fontSize=38&fontColor=FF0000&animation=fadeIn&fontAlignY=50&stroke=FF0000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
+</p>
+<h2 align="center" style="color:#FF0000;">PUBLICATIONS</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
 </p>
 
 <table align="center" width="100%">
@@ -209,9 +223,13 @@
 
 ---
 
-<!-- ========== SECTION BANNER: CORE STACK ========== -->
+<!-- ========== SECTION: CORE STACK ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=CORE%20STACK&fontSize=38&fontColor=FF0000&animation=fadeIn&fontAlignY=50&stroke=FF0000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
+</p>
+<h2 align="center" style="color:#FF0000;">CORE STACK</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
 </p>
 
 <table align="center" width="100%">
@@ -258,12 +276,15 @@
 
 ---
 
-<!-- ========== SECTION BANNER: FEATURED PROJECTS ========== -->
+<!-- ========== SECTION: FEATURED PROJECTS ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=FEATURED%20PROJECTS&fontSize=38&fontColor=FF0000&animation=fadeIn&fontAlignY=50&stroke=FF0000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
+</p>
+<h2 align="center" style="color:#FF0000;">FEATURED PROJECTS</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
 </p>
 
-<!-- ========== FLAGSHIP PROJECT ========== -->
 <table align="center" width="100%">
 <tr>
 <td align="left" style="background: linear-gradient(135deg, #0D0D0D 0%, #1a0000 100%); border-left: 6px solid #FF0000; border-radius: 12px; padding: 25px;">
@@ -291,7 +312,6 @@
 
 <br/>
 
-<!-- ========== ACADIFY ========== -->
 <table align="center" width="100%">
 <tr>
 <td align="left" style="background: linear-gradient(135deg, #0D0D0D 0%, #1a0000 100%); border-left: 6px solid #FFFFFF; border-radius: 12px; padding: 25px;">
@@ -315,7 +335,6 @@
 
 <br/>
 
-<!-- ========== CANCER CLASSIFIER ========== -->
 <table align="center" width="100%">
 <tr>
 <td align="left" style="background: linear-gradient(135deg, #0D0D0D 0%, #1a0000 100%); border-left: 6px solid #FF0000; border-radius: 12px; padding: 25px;">
@@ -339,7 +358,6 @@
 
 <br/>
 
-<!-- ========== STUDENT PERFORMANCE ========== -->
 <table align="center" width="100%">
 <tr>
 <td align="left" style="background: linear-gradient(135deg, #0D0D0D 0%, #1a0000 100%); border-left: 6px solid #FFFFFF; border-radius: 12px; padding: 25px;">
@@ -363,7 +381,6 @@
 
 <br/>
 
-<!-- ========== SERVIFY ========== -->
 <table align="center" width="100%">
 <tr>
 <td align="left" style="background: linear-gradient(135deg, #0D0D0D 0%, #1a0000 100%); border-left: 6px solid #FF0000; border-radius: 12px; padding: 25px;">
@@ -387,7 +404,6 @@
 
 <br/>
 
-<!-- ========== LAUNCH KITS ========== -->
 <table align="center" width="100%">
 <tr>
 <td align="left" style="background: linear-gradient(135deg, #0D0D0D 0%, #1a0000 100%); border-left: 6px solid #FFFFFF; border-radius: 12px; padding: 25px;">
@@ -417,9 +433,13 @@
 
 ---
 
-<!-- ========== SECTION BANNER: GITHUB ANALYTICS ========== -->
+<!-- ========== SECTION: GITHUB ANALYTICS ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=GITHUB%20ANALYTICS&fontSize=38&fontColor=FF0000&animation=fadeIn&fontAlignY=50&stroke=FF0000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
+</p>
+<h2 align="center" style="color:#FF0000;">GITHUB ANALYTICS</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
 </p>
 
 <p align="center">
@@ -442,9 +462,13 @@
 
 ---
 
-<!-- ========== SECTION BANNER: CONTRIBUTION SNAKE ========== -->
+<!-- ========== SECTION: CONTRIBUTION SNAKE ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=CONTRIBUTION%20SNAKE&fontSize=38&fontColor=FF0000&animation=fadeIn&fontAlignY=50&stroke=FF0000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
+</p>
+<h2 align="center" style="color:#FF0000;">CONTRIBUTION SNAKE</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
 </p>
 
 <p align="center">
@@ -453,9 +477,13 @@
 
 ---
 
-<!-- ========== SECTION BANNER: CITATION ========== -->
+<!-- ========== SECTION: CITATION ========== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=header&text=CITATION&fontSize=38&fontColor=FF0000&animation=fadeIn&fontAlignY=50&stroke=FF0000&strokeWidth=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
+</p>
+<h2 align="center" style="color:#FF0000;">CITATION</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&width=200" />
 </p>
 
 <p align="center">
